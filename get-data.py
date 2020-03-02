@@ -248,7 +248,7 @@ def predict_topic(text, nlp=nlp):
     return topic, topic_probability_scores
 
 # Predict the topic
-mytext = ["Some text about christianity and bible"]
+mytext = ["example"]
 topic, prob_scores = predict_topic(text = mytext)
 print(prob_scores)
 
