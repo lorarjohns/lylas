@@ -51,7 +51,7 @@ preshed==3.0.2
 prompt-toolkit==3.0.3
 ptyprocess==0.6.0
 py==1.8.1
-Pygments==2.5.2
+Pygments==2.7.4
 pyLDAvis==2.1.2
 pylint==2.4.4
 pyparsing==2.4.6
